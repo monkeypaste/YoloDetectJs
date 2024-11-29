@@ -1,0 +1,22 @@
+<html>
+<head>
+    <!--<link rel="preload" href="yolov8n.onnx" as="fetch">-->
+    <script type="text/javascript">
+        var yd = null;
+        async function buttonClick() {
+            if (yd == null) {
+                yd = globals.plugins['832db8c8-75f7-4f44-8303-6c879a44dcce'];
+                await yd.mp_init();
+            }
+            yd.test();
+        }
+    </script>
+    <script type="text/javascript" src="plugin-client.js"></script>
+    <script type="text/javascript" src="YoloDetectJs.js"></script>
+</head>
+  <body>
+    TEST TEST TEST<br />
+    <button type="button" onClick="buttonClick()">Call C#</button>
+    <div id="RespElm">No response yet</div>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "title": "Yolo bespeur JS",
+  "description": "Vind 80 verskillende soorte voorwerpe in beelde en word in JavaScript geskryf!",
+  "tags":  "Beeldopsporing, aantekening, beeld, AI, teks",
+  "version": "1.0.0.0",
+  "author": "Monkey",
+  "guid": "832db8c8-75f7-4f44-8303-6c879a44dcce",
+  "readmeUrl": "README.md",
+  "projectUrl": "https://github.com/monkeypaste/YoloDetectJs",
+  "packageUrl": "https://github.com/monkeypaste/YoloDetectJs/releases/download/v1.0.0.0/v1.0.0.0.zip",
+  "iconUri": "icon.png",
+  "packageType": "Javascript",
+  "pluginType": "Analyzer"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Yolo檢測JS",
+  "description": "在圖像中找到80種不同類型的對象，並用JavaScript編寫！",
+  "tags":  "圖像檢測，註釋，圖像，AI，文本",
+  "version": "1.0.0.0",
+  "author": "Monkey",
+  "guid": "832db8c8-75f7-4f44-8303-6c879a44dcce",
+  "readmeUrl": "README.md",
+  "projectUrl": "https://github.com/monkeypaste/YoloDetectJs",
+  "packageUrl": "https://github.com/monkeypaste/YoloDetectJs/releases/download/v1.0.0.0/v1.0.0.0.zip",
+  "iconUri": "icon.png",
+  "packageType": "Javascript",
+  "pluginType": "Analyzer"
+}

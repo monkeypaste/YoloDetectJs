@@ -1,0 +1,14 @@
+{
+  "title": "Yolo JS tespit et",
+  "description": "Görüntülerde 80 farklı nesne türü bulur ve JavaScript'te yazılmıştır!",
+  "tags":  "Görüntü algılama, ek açıklama, görüntü, AI, metin",
+  "version": "1.0.0.0",
+  "author": "Monkey",
+  "guid": "832db8c8-75f7-4f44-8303-6c879a44dcce",
+  "readmeUrl": "README.md",
+  "projectUrl": "https://github.com/monkeypaste/YoloDetectJs",
+  "packageUrl": "https://github.com/monkeypaste/YoloDetectJs/releases/download/v1.0.0.0/v1.0.0.0.zip",
+  "iconUri": "icon.png",
+  "packageType": "Javascript",
+  "pluginType": "Analyzer"
+}

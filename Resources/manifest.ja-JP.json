@@ -1,0 +1,14 @@
+{
+  "title": "YoloはJSを検出します",
+  "description": "画像内の80種類のオブジェクトを見つけ、JavaScriptで書かれています！",
+  "tags":  "画像検出、注釈、画像、AI、テキスト",
+  "version": "1.0.0.0",
+  "author": "Monkey",
+  "guid": "832db8c8-75f7-4f44-8303-6c879a44dcce",
+  "readmeUrl": "README.md",
+  "projectUrl": "https://github.com/monkeypaste/YoloDetectJs",
+  "packageUrl": "https://github.com/monkeypaste/YoloDetectJs/releases/download/v1.0.0.0/v1.0.0.0.zip",
+  "iconUri": "icon.png",
+  "packageType": "Javascript",
+  "pluginType": "Analyzer"
+}
